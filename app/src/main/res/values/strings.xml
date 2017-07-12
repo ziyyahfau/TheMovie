@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Popular</string>
+
+    <string name="setting">Setting</string>
+
+
+    <string name="sort_most_popular">Sort By Most Popular</string>
+    <string name="sort_top_rated">Sort By Top Rated</string>
+
+    <string name="movieName">Name</string>
+</resources>
